@@ -18,6 +18,9 @@ public class AporteDiego {
         // TODO code application logic here
         System.out.println("Aporte para Maykol");
         System.out.println("Segundo aporte");
+        System.out.println("Tercer aporte");
+        System.out.println("Cuarto aporte");
+        System.out.println("Quinto aporte");
     }
     
 }
