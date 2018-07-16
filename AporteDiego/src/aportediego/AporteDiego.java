@@ -16,9 +16,7 @@ public class AporteDiego {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Aporte para Maykol");
-        System.out.println("Segundo aporte");
-        System.out.println("Tercer aporte");
+        System.out.println("ÚNICO CAMBIO A RAMA DIEGO");
     }
     
 }
