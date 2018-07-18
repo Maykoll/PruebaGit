@@ -23,7 +23,6 @@ public class AporteDiego {
         System.out.println("Quinto aporte");
         System.out.println("XXXXXXX");
         
-        System.out.println("231456");
     }
     
 }
