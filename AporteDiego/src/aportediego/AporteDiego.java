@@ -24,6 +24,8 @@ public class AporteDiego {
         
         System.out.println("Gm reportandose y aportando jajaja");
         System.out.println("Aportando info");
+        System.out.println("Aporte extra");
+        System.out.println("Aporte adicional");
       
     }
     
