@@ -17,6 +17,7 @@ public class ProyectoGM {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Aporte GM");
+        System.out.println("Segundo Aporte GM");
     }
     
 }
