@@ -27,6 +27,7 @@ public class AporteDiego {
         System.out.println("Aporte extra");
         System.out.println("Aporte final");
         System.out.println("XXXXX");
+        System.out.println("X");
        
       
     }
